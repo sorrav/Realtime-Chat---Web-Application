@@ -13,10 +13,10 @@
 </div>
 
 # Features :
- -Authentication && Authorization with JWT
- -Real-time messaging with Socket.io
- -Online user status
- -Global state management with Zustand
+ - Authentication && Authorization with JWT.
+ - Real-time messaging with Socket.io.
+ - Online user status.
+ - Global state management with Zustand.
  
 # #Setting Up New Account :
 https://github.com/user-attachments/assets/6a5142c3-ad36-4329-b87b-f03b579f0e44
